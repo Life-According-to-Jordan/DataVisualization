@@ -9,7 +9,7 @@ Please follow me on my journey of data visualization.
 
 #### R Packages 
 
-* [ggplot2](http://ggplot2.org/)
+* [ggplot2](http://ggplot2.tidyverse.org/reference/)
 * [patchwork](https://github.com/thomasp85/patchwork)
 * [ggiraph](http://davidgohel.github.io/ggiraph/)
 * [dygraphs](https://rstudio.github.io/dygraphs/index.html)
