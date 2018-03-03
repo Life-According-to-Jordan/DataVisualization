@@ -10,7 +10,6 @@ Please follow me on my journey of data visualization.
 #### R Packages 
 
 - [x] [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
-- [ ] [ggiraph](http://davidgohel.github.io/ggiraph/)
 - [ ] [dygraphs](https://rstudio.github.io/dygraphs/index.html)
 - [ ] [googleVis](https://github.com/mages/googleVis)
 - [ ] [metricsgraphics](http://hrbrmstr.github.io/metricsgraphics/)
