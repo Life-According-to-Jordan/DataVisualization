@@ -17,7 +17,7 @@ Please follow me on my journey of data visualization.
 - [ ] [shiny](http://shiny.rstudio.com/)
 - [ ] [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
 - [ ] [plotly](https://plot.ly/r/)
-- [ ] [highcharter](http://jkunst.com/highcharter/)
+- [x] [highcharter](http://jkunst.com/highcharter/)
 - [ ] [geofacet](https://github.com/hafen/geofacet)
 
 #### Python Packages 
