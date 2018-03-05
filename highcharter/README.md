@@ -4,3 +4,5 @@ The package "highcharter" was really cool to work with! The best part about high
 see specific points in the data as you hover over them. You can change the color of the data
 as you move your mouse over them. I highly advise that you use highcharter on your next data 
 visualization task.
+
+Note that I had used ggplot2 on some of the visualizations in the code before using highcharter.
