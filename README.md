@@ -23,7 +23,7 @@ Please follow me on my journey of data visualization.
 #### Python Packages 
 
 - [ ] [matplotlib](https://community.modeanalytics.com/python/libraries/matplotlib/)
-- [ ] [Seaborn](https://community.modeanalytics.com/python/libraries/seaborn/)
+- [x] [Seaborn](https://community.modeanalytics.com/python/libraries/seaborn/)
 - [ ] [ggplot](http://ggplot2.org/)
 - [ ] [Bokeh](https://bokeh.pydata.org/en/latest/)
 - [ ] [pygal](http://www.pygal.org/en/latest/index.html)
